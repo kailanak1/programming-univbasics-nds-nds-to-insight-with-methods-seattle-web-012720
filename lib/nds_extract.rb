@@ -15,7 +15,7 @@ def gross_for_director(director_data)
   total 
 end
 
-print gross_for_director
+print gross_for_director(directors_data)
 
 def directors_totals(nds)
   i = 0
