@@ -25,5 +25,5 @@ def directors_totals(nds)
    i += 1 
    result[directors] = total
   end 
-  print result 
+  result 
 end
