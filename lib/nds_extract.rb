@@ -17,5 +17,5 @@ end
 
 
 def directors_totals(nds)
- 
+ print gross_for_director
 end
