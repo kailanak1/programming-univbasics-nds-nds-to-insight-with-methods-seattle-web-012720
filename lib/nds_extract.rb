@@ -23,6 +23,7 @@ def directors_totals(nds)
    directors = nds[i][:name]
    total = gross_for_director(nds[i])
    i += 1 
+   result[directors] = total
   end 
-  print result[directors] = total
+  print result 
 end
