@@ -24,5 +24,5 @@ def directors_totals(nds)
    total = gross_for_director(nds[i])
    i += 1 
   end 
-  result[directors] = total 
+  result[directors] = total.to_i 
 end
