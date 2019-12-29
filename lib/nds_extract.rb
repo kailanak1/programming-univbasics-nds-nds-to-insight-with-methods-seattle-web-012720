@@ -17,5 +17,7 @@ end
 
 
 def directors_totals(nds)
- print gross_for_director(nds).to_i
+ i = 0 
+ while i < nds.length do 
+   directors = 
 end
